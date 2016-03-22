@@ -1,5 +1,8 @@
 # coding=UTF-8
 __author__ = 'Edilson'
+__author__ = 'Carlos'
+__author__ = 'Alan'
+
 import matplotlib.pyplot as plt
 import numpy as np
 
